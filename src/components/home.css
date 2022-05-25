@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(248,249,250);
+}
+.home{
+
+}
+.search{
+    margin: 5%;
+    height: 10vh;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;  
+    align-items: center;
+    
+
+}
+input, button{
+    height: 5vh;
+    width: 50rem;
+    border-radius: 10px;
+    font-size: larger ;
+    
+    
+}
+button{
+    background-color: rgb(76, 135, 218);
+    font-weight: bold;
+}
+.image{
+    height: 30vh; 
+
+}
